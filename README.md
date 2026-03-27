@@ -1,6 +1,6 @@
 Overview
 
-This project focuses on building a clean and structured relational database based on raw Airbnb data
+This project focuses on building a clean and structured relational database based on raw Airbnb data: https://insideairbnb.com/get-the-data/
 
 The main goal was to take messy and semi structured inputs and turn them into a consistent schema that actually makes sense from both technical and business perspective
 
